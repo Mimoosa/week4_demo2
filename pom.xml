@@ -33,7 +33,7 @@
     </dependencies>
 
     <build>
-        <finalName>calculator</finalName>
+        <finalName>app</finalName>
         <plugins>
             <!-- Compiler -->
             <plugin>
